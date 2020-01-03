@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<typelistextension xmlns="http://guidewire.com/typelists" name="CustomerServiceTier" desc="Represents the customer service tier">
+  <typecode
+    code="platinium_EXT"
+    name="platinium"
+    priority="10"/>
+  <typecode
+    code="Gold_EXT"
+    name="Gold"
+    priority="20"/>
+  <typecode
+    code="Silver_EXT"
+    name="Silver"
+    priority="30"/>
+</typelistextension>
