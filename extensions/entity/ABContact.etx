@@ -186,7 +186,7 @@
     nullok="true"
     type="datetime"/>
   <column
-    name="CustomerRating_Ext"
+    name="CustomerRatings_Ext"
     nullok="true"
     type="decimal">
     <columnParam
